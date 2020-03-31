@@ -1,0 +1,8 @@
+[user]
+	name = Ryan Goulding
+	email = rgouldin@redhat.com
+
+[alias]
+        br = branch
+        st = status
+        co = checkout
